@@ -1,5 +1,5 @@
-export class Usurario{
+export class Usuario{
     public id: number
     public nome: string
-    public usuarui: string
+    public usuario: string
 }
